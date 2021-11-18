@@ -727,8 +727,13 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 500px;
+    color: white;
     margin: auto auto auto auto;
+}
+.social a{
+    color: white;
+    padding-left: 10px;;
 }
 
 h2 {
